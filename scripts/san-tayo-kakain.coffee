@@ -36,6 +36,6 @@ comments = [
 
 module.exports = (robot) ->
 
-  robot.respond /san tayo kakain/i, (res) ->
+  robot.respond /san tayo kakain\?*$/i, (res) ->
     res.send res.random stores
     res.send res.random comments
