@@ -2,7 +2,7 @@
 #   Comet suggests food places!
 #
 # Commands:
-#   hubot san tayo kakain[?] - hubot: Burger King. Well Basta may pera ka
+#   hubot san tayo kakain[?] - hubot sends you a restaurant suggestion
 #
 # Author:
 #   mixxorz - Mitchel Cabuloy
