@@ -19,4 +19,4 @@ module.exports = (robot) ->
   robot.respond /may pasok ba\?*$/i, (res) ->
     query = x 'http://maypasokba.com', 'div.post>h1'
     query (err, post) ->
-      res.send "#{post}\nhttp://maypasokba.com"
+      res.send "#{post}"
