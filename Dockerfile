@@ -1,4 +1,4 @@
-FROM google/nodejs
+FROM node
 
 # Install supervisord
 RUN apt-get update && apt-get install -y supervisor
