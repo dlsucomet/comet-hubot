@@ -7,5 +7,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-fliptable"
+  "hubot-fliptable",
+  "hubot-thecat"
 ]
