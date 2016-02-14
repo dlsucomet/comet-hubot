@@ -18,6 +18,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-thecat": "^1.0.1",
+    "mitsuku-api": "^0.1.1",
     "x-ray": "^2.0.2"
   },
   "engines": {
